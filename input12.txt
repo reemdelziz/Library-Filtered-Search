@@ -1,0 +1,14 @@
+{genre:fiction,title:Oliver.Twist,author:Cha rles.Dickens,year:18 38}
+{genre:child.literature,title:the.cat.in.the.  hat,author:Dr.Seus s,year:1957}
+{genre:child.lit e  rature,ti  tle:Green.Eggs.And.H  am, author:Dr.Seu ss,year:1960}
+
+{genre:ficti on,title:Great.Expec tations,autho r:Char les.Dickens,year:1861}
+{genre:f ict i on, title:A.Chrismas.Carol,author:Charles.D icke ns,year:1843}
+{genre:fict ion ,title : The.House.Of.The.Dead,a uthor:Fyod or.Dostoevsky,year:1861}
+{genre:fiction,titl e:The.Old.Man.And.The.Sea,author:Ernest.Hemingway,year:1957}
+
+
+
+
+{g e n re: f ic tion , title:Gr eat.Exp ectation s,auth or:Charles.Dickens,year:1861}
+{genre:chi ld.literat u r e, ti tl e:G reen.Eggs.A nd.Ha m, auth  or:Dr.Seuss,year:1960}

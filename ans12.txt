@@ -1,0 +1,4 @@
+{genre:fiction,title:Great.Expectations,author:Charles.Dickens,year:1861}
+{genre:fiction,title:The.House.Of.The.Dead,author:Fyodor.Dostoevsky,year:1861}
+{genre:fiction,title:The.Old.Man.And.The.Sea,author:Ernest.Hemingway,year:1957}
+{genre:fiction,title:Great.Expectations,author:Charles.Dickens,year:1861}
